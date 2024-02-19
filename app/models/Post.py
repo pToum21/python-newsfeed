@@ -18,5 +18,6 @@ class Post(Base):
 
     # Use a column_property to get the count of votes for each post
     vote_count = column_property(
-        func.count().label('vote_count')
+      func.count(Vote.id).label('vote_count'),
+      deferred=True
     )
