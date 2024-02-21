@@ -25,7 +25,7 @@ they must run rpm init -y and npm i to install dependiences used when creating t
  You must run npm i to download the correct packages.
 
 ## Preview Photo
-
+![Just Tech News - Google Chrome 2_20_2024 6_07_32 PM](https://github.com/pToum21/python-newsfeed/assets/138056441/d037c885-123d-4fe6-8c5c-240980d2d1a8)
 
 ## Qustions - ❓
 Feel Free to contact me at pey2moo1@gmail.com or [ptoum21](https://github.com/ptoum21).
